@@ -3,6 +3,8 @@
 
 ## Project Overview
 This project predicts whether a Cancer is Malignant or Benign using Machine Learning models.
+Malignant(1)
+Benign(0)
 
 ## Dataset
 Provided (cancer_data.csv)
