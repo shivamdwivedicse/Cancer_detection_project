@@ -152,16 +152,16 @@ LogisticRegression(C=0.5, max_iter=2000, class_weight='balanced')
 ## 📂 Project Structure
 
 Cancer_detection_project/
-├── app.py                     (Streamlit web app)
-├── train_final_model.py       (Model training script)
-├── Cancer_project.ipynb       (Full notebook - EDA + experiments)
-├── Cancer_Data.csv            (Dataset)
-├── cancer_model.pkl           (Trained full model, 30 features)
-├── scaler.pkl                 (Scaler for full model)
-├── cancer_model_simple.pkl    (Trained simple model, 10 features)
-├── scaler_simple.pkl          (Scaler for simple model)
-├── requirements.txt           (Python dependencies)
-└── README.md                  (You're here!)
+├── app.py                    
+├── train_final_model.py       
+├── Cancer_project.ipynb       
+├── Cancer_Data.csv            
+├── cancer_model.pkl           
+├── scaler.pkl                 
+├── cancer_model_simple.pkl    
+├── scaler_simple.pkl          
+├── requirements.txt           
+└── README.md               
 
 ---
 
